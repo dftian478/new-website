@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>银行业务 on 产品综合网站</title>
+    <link>http://localhost:1313/tags/%E9%93%B6%E8%A1%8C%E4%B8%9A%E5%8A%A1/</link>
+    <description>Recent content in 银行业务 on 产品综合网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, all rights reserved.</copyright>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E9%93%B6%E8%A1%8C%E4%B8%9A%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>解决常见外贸银行业务问题</title>
+      <link>http://localhost:1313/post/52/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/52/</guid>
+      <description>
+        
+          
+            国外银行业务复杂多变，ASI解析外贸人士在处理美国银行业务中常见的错误与解决方案。了解如何正确填写收款信息，避免资金无法入账，提升客户体验，确保国际交易顺利进行。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>解析高额手续费背后的真相</title>
+      <link>http://localhost:1313/post/54/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/54/</guid>
+      <description>
+        
+          
+            在全球贸易中，汇款手续费问题常常困扰着许多企业。本文揭示了手续费较高的主要原因，并提供了解决思路。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on 产品综合网站</title>
+    <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on 产品综合网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, all rights reserved.</copyright>
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>华为云企业用户备案流程与注意事项：实战分享</title>
+      <link>http://localhost:1313/post/48/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/48/</guid>
+      <description>
+        
+          
+            本文详述了华为云企业用户备案的具体步骤和注意事项，包括域名申请、实名认证、提交备案等环节，帮助企业用户顺利完成备案过程。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

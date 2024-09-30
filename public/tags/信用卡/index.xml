@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>信用卡 on 产品综合网站</title>
+    <link>http://localhost:1313/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/</link>
+    <description>Recent content in 信用卡 on 产品综合网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E4%BF%A1%E7%94%A8%E5%8D%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>处理美国ASI平台信用卡支付的方案</title>
+      <link>http://localhost:1313/post/32/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/32/</guid>
+      <description>
+        
+          
+            在美国ASI平台上，客户通常通过信用卡支付。本文探讨如何申请支持手动输入卡号的POS机，并分析相关风险与解决方案。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>美国ASI和Sage平台外贸交易的四种常用付款方式</title>
+      <link>http://localhost:1313/post/18/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/18/</guid>
+      <description>
+        
+          
+            本文详细介绍了在美国ASI和Sage平台上，企业外贸交易中的四种常用付款方式，包括支票、电汇、信用卡和通过Paypal的在线信用卡支付，分析了每种方式的优缺点及使用建议。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
