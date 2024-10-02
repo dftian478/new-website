@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品查询 on 产品综合网站</title>
+    <link>//localhost:1313/tags/%E4%BA%A7%E5%93%81%E6%9F%A5%E8%AF%A2/</link>
+    <description>Recent content in 产品查询 on 产品综合网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/%E4%BA%A7%E5%93%81%E6%9F%A5%E8%AF%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何在ASI和Sage平台查询销售的产品</title>
+      <link>//localhost:1313/post/29/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/29/</guid>
+      <description>
+        
+          
+            ASI是全球最大的促销产品行业会员组织，提供多种服务，帮助企业建立品牌。本文介绍如何在ASI和Sage平台查询销售的产品，帮助用户熟悉平台使用技巧，进一步提升品牌推广效果。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>如何在ASI网站查看他人的所有产品</title>
+      <link>//localhost:1313/post/36/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/36/</guid>
+      <description>
+        
+          
+            作为全球领先的促销产品行业平台，ASI通过输入对方的ASI号，帮助企业方便地访问及查询其他企业的产品信息，从而提高品牌知名度和市场竞争力。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,5 @@
 # baseURL = 'http://43.203.253.230/'
 languageCode = 'en-us'
 title = 'Hugo Site'
+theme = 'hugo-clarity'
+baseURL = 'https://github.com/dftian478/new-website.github.io/'

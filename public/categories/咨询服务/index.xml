@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>咨询服务 on 产品综合网站</title>
+    <link>//localhost:1313/categories/%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1/</link>
+    <description>Recent content in 咨询服务 on 产品综合网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, all rights reserved.</copyright>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/%E5%92%A8%E8%AF%A2%E6%9C%8D%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASI入驻费用解析</title>
+      <link>//localhost:1313/post/27/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/27/</guid>
+      <description>
+        
+          
+            ASI是一家为促销产品行业提供广泛服务的咨询公司，我们详细解析了标准的ASI入驻费用，以帮助企业更好地了解入驻成本。
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>美国ASI和SAGE咨询服务问答</title>
+      <link>//localhost:1313/post/26/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/26/</guid>
+      <description>
+        
+          
+            ASI是全球最大的促销产品行业会员组织，提供多种服务，帮助企业建立品牌。本文涵盖了关于同时注册ASI和SAGE的客服费用、客服选择、电话询盘流程以及如何在两个平台之间互用信息的常见问题解答。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
